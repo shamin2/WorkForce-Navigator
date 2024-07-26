@@ -7,6 +7,7 @@ The Workforce Navigator is a comprehensive Employee Management System built usin
 - [Features](#features)
 - [Usage](#usage)
 - [Files](#files)
+- [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
 
 ## Features
@@ -48,6 +49,19 @@ The application uses SQL as the backend database to store employee information. 
 
 - **Database Setup:** Ensure that you have a running SQL database and update the connection details in the `conn.java` file.
 - **Database Operations:** The application performs CRUD (Create, Read, Update, Delete) operations on the employee data stored in the SQL database.
+
+## Future Enhancements
+
+To make the Workforce Navigator even more impressive, consider adding the following features in future updates:
+
+- **Role-Based Access Control (RBAC):** Implement different user roles (e.g., Admin, Manager, Employee) with specific permissions and access levels.
+- **Employee Attendance Tracking:** Add functionality to track and manage employee attendance, including clock-in and clock-out times.
+- **Performance Reviews:** Include a module for conducting and storing performance reviews and feedback for employees.
+- **Payroll Management:** Integrate payroll management features to handle salary calculations, deductions, and pay slips.
+- **Reporting and Analytics:** Add detailed reporting and analytics to provide insights into employee data, attendance, and performance metrics.
+- **Email Notifications:** Implement email notifications for important actions, such as adding a new employee or upcoming performance reviews.
+- **Mobile Application:** Develop a companion mobile app to allow employees to access the system on the go.
+- **Data Backup and Recovery:** Implement automated data backup and recovery solutions to protect against data loss.
 
 ## Contact
 
