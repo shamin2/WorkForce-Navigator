@@ -1,6 +1,6 @@
 # Workforce Navigator
 
-The Workforce Navigator is a comprehensive Employee Management System built using Java. This application allows users to add, view, update, and remove employees. The system also includes a secure login mechanism and a splash screen for initial loading. SQL is used as the backend database to store and manage employee information securely.
+The Workforce Navigator is a comprehensive Employee Management System built using Java and Swing library. This application allows users to add, view, update, and remove employees. The system also includes a secure login mechanism and a splash screen for initial loading. SQL is used as the backend database to store and manage employee information securely.
 
 ## Table of Contents
 
